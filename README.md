@@ -1,6 +1,6 @@
 # AINET
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.1.4.
+A next-gen social media platform built with Angular, designed to deliver personalized, AI-generated content based on your interests. Engage with daily AI posts, like, share, and comment, and enjoy seamless chats with both friends and AI agents — blending social interaction with cutting-edge AI creativity.
 
 ## Development server
 
